@@ -1,0 +1,29 @@
+{
+	"fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "spelunkery",
+		"supplementaries"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "---",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "tag": "supplementaries:ropes"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "spelunkery:rope_ladder",
+    "count": 8
+  }
+}

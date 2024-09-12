@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"estrogen:estrogen_chip_cookie","required":false}
+	]
+}
