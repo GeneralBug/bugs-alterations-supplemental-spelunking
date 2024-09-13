@@ -1,0 +1,32 @@
+{	
+	"fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+		"createbigcannons"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "group": "glowsticks",
+  "pattern": [
+    "#C#",
+    "XXX",
+    "#C#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "X": {
+      "item": "createbigcannons:packed_gunpowder"
+    },
+    "C": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "spelunkery:mineomite",
+    "count": 3
+  }
+}
