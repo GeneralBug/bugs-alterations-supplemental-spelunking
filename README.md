@@ -7,4 +7,4 @@ Datapack that makes some minor recipe tweaks to the Fabric versions of [Suppleme
  - Dreams and Desires' spectral rubies and Estrogen's balls can be polished on a grindstone
  - Estrogen cookies work in Supplementaries jars
 
-[Modrinth page]()
+[Modrinth page](https://modrinth.com/datapack/ba-supplemental-spelunking)
