@@ -1,0 +1,37 @@
+{
+	"fabric:load_conditions": 
+	[
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": 
+			[
+				"galosphere"
+			]
+		}
+	],
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": 
+	{
+		"#": 
+		{
+			"item": "galosphere:cured_membrane"
+		},
+		"S": 
+		{
+			"tag": "c:silver_ingots"
+		}
+	},
+	"pattern": 
+	[
+		"S#S",
+		"#S#",
+		"S#S"
+	],
+	"result": 
+	{
+		"count": 8,
+		"item": "galosphere:shadow_frame"
+	},
+	"show_notification": true
+}

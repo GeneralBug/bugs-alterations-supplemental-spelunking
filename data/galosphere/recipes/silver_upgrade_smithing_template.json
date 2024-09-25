@@ -1,0 +1,41 @@
+{
+	"fabric:load_conditions": 
+	[
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": 
+			[
+				"galosphere"
+			]
+		}
+	],
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": 
+	{
+		"#": 
+		{
+			"tag": "minecraft:planks"
+		},
+		"C": 
+		{
+			"tag": "c:silver_ingots"
+		},
+		"S": 	
+		{
+			"item": "galosphere:silver_upgrade_smithing_template"
+		}
+	},
+	"pattern": 
+	[
+		"#S#",
+		"#C#",
+		"###"
+	],
+	"result": 
+	{
+		"count": 2,
+		"item": "galosphere:silver_upgrade_smithing_template"
+	},
+	"show_notification": true
+}

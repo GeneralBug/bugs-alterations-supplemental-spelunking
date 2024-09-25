@@ -1,0 +1,25 @@
+{
+	"fabric:load_conditions": 
+	[
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": 
+			[
+				"oreganized"
+			]
+		}
+	],
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": 
+	[
+		{
+			"tag": "c:silver_blocks"
+		}
+	],
+	"result": 
+	{
+		"count": 9,
+		"item": "oreganized:silver_ingot"
+	}
+}

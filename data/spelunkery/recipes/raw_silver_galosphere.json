@@ -1,0 +1,33 @@
+{
+	"fabric:load_conditions": 
+	[
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": 
+			[
+				"galosphere",
+				"spelunkery"
+			]
+		}
+	],
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": 
+	{
+		"#": 
+		{
+			"item": "spelunkery:raw_silver_nugget"
+		}
+	},
+	"pattern": 
+	[
+		"###",
+		"###",
+		"###"
+	],
+	"result": 
+	{
+		"item": "galosphere:raw_silver"
+	},
+	"show_notification": true
+}
